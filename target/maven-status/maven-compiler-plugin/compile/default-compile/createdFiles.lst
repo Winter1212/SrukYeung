@@ -1,0 +1,4 @@
+com\mycompany\srukyeung\resources\JakartaEE10Resource.class
+Beans\Dbconnection.class
+Beans\users.class
+com\mycompany\srukyeung\JakartaRestConfiguration.class
